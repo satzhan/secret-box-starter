@@ -1,0 +1,2 @@
+Hi, this is Jordan. If you can read this, my box is not as safe as I thought.
+FLAG{jordan-forgot-about-layers}
