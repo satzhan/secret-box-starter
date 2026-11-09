@@ -1,0 +1,6 @@
+# keep junk out of the image
+.git
+*.md
+
+# don't ship the crack tool, people could use it to crack my box!
+*.py
